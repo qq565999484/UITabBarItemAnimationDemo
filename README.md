@@ -1,6 +1,8 @@
 # UITabBarItemAnimationDemo
 在自定义的UITabBarController中导入
-''#import "UITabBarController+Swizzing.h"’
+''
+#import "UITabBarController+Swizzing.h"
+
 ```objective-c
 #import "UITabBarController+Swizzing.h"
 ```
