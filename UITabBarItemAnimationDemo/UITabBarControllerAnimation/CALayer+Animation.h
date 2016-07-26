@@ -32,4 +32,8 @@
  *  左右抖动
  */
 - (void)addLeftAndRightShake;
+/**
+ *  摇动
+ */
+-(void)shake;
 @end
